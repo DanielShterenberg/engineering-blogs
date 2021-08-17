@@ -443,6 +443,7 @@
 * WePay https://wecode.wepay.com/
 * Wimdu http://tech.wimdu.com/
 * Wingify http://engineering.wingify.com/
+* Wix https://www.wix.engineering/blog/
 * Wolox https://medium.com/@WoloxEngineering/
 * Wombat Security Technologies http://development.wombatsecurity.com/
 * Wonga Technology http://tech.wonga.com/
